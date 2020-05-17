@@ -18,9 +18,10 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 # 第4回
 日時: 2020年5月25日11:00-<br>
-発表者: 北谷基治  (理研)<br>
+発表者: 北谷基治 (理研)<br>
 発表題目: T.B.A
 
+[登録フォーム](https://docs.google.com/forms/d/1j_Sg0S3xx6BQ2G2rTaMHYMiQ42agbwXY9CYRVIipyyE/edit)
 
 
 # 第3回
