@@ -19,7 +19,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第6回
 日時: 2020年6月8日11:00-<br>
 発表者: 藤本純治 (中国科学院大学Kavli理論科学研究所）<br>
-発表題目: 
+発表題目: 動的ねじれによるマグノン流生成
 
 [登録フォーム](https://docs.google.com/forms/d/1plCg0fZpksJCj3w7bfyQ7O6pHk1heCNehBzNmFz5ADY/viewform)
 
