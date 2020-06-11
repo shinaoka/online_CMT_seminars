@@ -41,7 +41,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 [1] A. A. Burkov, M. D. Hook, and L. Balents, Phys. Rev. B 84, 235126 (2011). 
 [2] S. T. Ramamurthy and T. L. Hughes, Phys. Rev. B 95, 075138 (2017). 
 [3] W. B. Rui, Y. X. Zhao, and A. P. Schnyder, Phys. Rev. B 97, 161113 (2018). 
-[4] TM and S. Fujimoto and A. P. Schnyder : arXiv:2004.11014(2020). 
+[4] TM, S. Fujimoto and A. P. Schnyder : arXiv:2004.11014(2020). 
 
 # 第9回
 日時: 2020年6月29日11:00-<br>
