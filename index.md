@@ -28,7 +28,9 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第8回
 日時: 2020年6月22日11:00-<br>
 発表者: 明石遼介 （東大）<br>
-発表題目: TBA
+発表題目: 第一原理計算に基づく高圧下における水素化物超伝導体の研究
+
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeJSBaVUCSYlNQ9RrM_HUkrL4wlpIO3dlfGGBnl5wEzPytcAA/viewform)
 
 # 第7回
 日時: 2020年6月15日11:00-<br>
