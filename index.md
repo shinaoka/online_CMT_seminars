@@ -29,7 +29,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 青山和司（阪大）<br>
 発表題目: TBA
 
-[登録フォーム]
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLScLYF1PKjppNzLp27kqtDqbHPtjJbV_F9gLh2NNgOD5T5PmGw/viewform)
 
 
 # 第12回
@@ -37,7 +37,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 岩木惇司（東大）<br>
 発表題目: TBA
 
-[登録フォーム]
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSenhedFEJdFYxWIflz87bjVBIcbELQU6vJHEUHsDRXlFeRwMw/viewform)
 
 
 # 第11回
