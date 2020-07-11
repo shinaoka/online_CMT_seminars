@@ -38,7 +38,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第16回
 日時: 2020年8月24日(月)11:00-<br>
 発表者: 野村悠祐（理研）<br>
-発表題目: TBA
+発表題目: 機械学習手法を用いた量子多体系の研究 ー手法拡張を含む最近の進展
 
 [登録フォーム](https://docs.google.com/forms/d/1zVoNOqFJ0rKXtSMNfCHgzT4uMiPwxfsjybIJGFt-Erw/edit)
 
