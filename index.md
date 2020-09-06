@@ -51,7 +51,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第22回
 日時: 2020年10月12日(月)11:00-<br>
 発表者: 井戸康太（東大物性研）<br>
-発表題目: 反強磁性ディラック半金属におけるネールベクトルの高速光制御
+発表題目: (仮題) 励起状態のための変分モンテカルロ法
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLScV5sASAR6Jwz626CcOCDTDINZbI_BWyyapxTsrFDxZALX3lQ/viewform)
 
