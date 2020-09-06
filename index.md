@@ -35,28 +35,28 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 * [第1回:  光元亨汰「凍結した乱れのない系におけるスピングラス転移」](#第1回)
 
 # 第24回
-日時: 2020年9月28日(月)11:00-<br>
+日時: 2020年10月26日(月)11:00-<br>
 発表者: 兎子尾理貴（京大）<br>
 発表題目: 空間反転対称性が破れた高伝導金属における流体力学的異常輸送現象
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfArQlS2dIxybHbpzBxTWeObYUJrMpWEliuep35M6ysHFk2Ww/viewform)
 
 # 第23回
-日時: 2020年9月28日(月)11:00-<br>
+日時: 2020年10月19日(月)11:00-<br>
 発表者: 村上雄太（東工大）<br>
 発表題目: (仮題) 励起子絶縁相の集団励起モードと非平衡誘起ダイナミクス
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdj3pL-NTtIioOv6hw9EeArHOuBewYYMtHDbppBIkBfafg45w/viewform)
 
 # 第22回
-日時: 2020年9月28日(月)11:00-<br>
+日時: 2020年10月12日(月)11:00-<br>
 発表者: 井戸康太（東大物性研）<br>
 発表題目: 反強磁性ディラック半金属におけるネールベクトルの高速光制御
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLScV5sASAR6Jwz626CcOCDTDINZbI_BWyyapxTsrFDxZALX3lQ/viewform)
 
 # 第21回
-日時: 2020年9月28日(月)11:00-<br>
+日時: 2020年10月5日(月)11:00-<br>
 発表者: 小野淳（東北大）<br>
 発表題目: 反強磁性ディラック半金属におけるネールベクトルの高速光制御
 
