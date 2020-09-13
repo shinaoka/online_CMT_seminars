@@ -69,6 +69,18 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/1TS7G57jpI0UKOj0osbp6R_Zp5h1hR64u5_EyauEmiVc/edit)
 
+高強度レーザー光電場に周期的に駆動される固体中の電子状態はフロケ状態の観点から議論され、実験ではフロケ・ブロッホバンドの観測[1]や光誘起異常ホール効果の観測[2]などによってフロケ状態の存在が確認されている。フロケ状態の生成および制御は光による超高速な物性制御の実現に向けて期待されており、対称性はそのために最も重要な概念である。中でも動的対称性は時間並進、反転操作と空間対象操作を組み合わせたもので、非摂動論的な光と物質の相互作用の下で起こる高次高調波発生（HHG）の理解に有用であるとして1993年に元々のアイデアが発案され[3]、2019年にフロケ群論として定式化が行われた[4]。しかし、これまでほぼすべての動的対称性の研究がHHGの偏光選択則の理解を目的としていたものであり、また固体における動的対称性の実験的な検証も乏しかった。
+
+我々は固体における非摂動論的な光学過程である高次サイドバンド発生(HSG)の偏光選択則の理解に対して動的対称性を応用し、その実験的検証を行った[5]。HSGは半導体に対してバンド間遷移に近共鳴な弱強度のパルス光と高強度赤外パルス光を同時照射することで生じる高次の和周波発生過程であり、2色の光を制御することでHHGより詳細に固体中の電子の励起状態を調べられるとして注目されている。これまでHSGは高強度電場下での電子の実時間発展に注目して研究されてきた[6]。我々はHSGをフロケ状態におけるラマン散乱過程として捉え直すことで、動的対称性によるHSGの偏光選択則の理解を可能にした。また、我々は実験的にHSGの偏光選択則を調べ、理論と比較した。対象の半導体として遷移金属ダイカルコゲナイドの単一原子層薄膜を用いることでHSGにおいて本質でない伝搬効果を避けて実験を行った。偏光選択則を系統的に調べた結果が理論的に予想された選択則と完全に一致し、固体における動的対称性を実証できた。
+
+[1] Wang, Y. H., Steinberg, H., Jarillo-Herrero, P. & Gedik, N. Observation of Floquet–Bloch states on the surface of a topological insulator. Science 342, 453–457 (2013).
+[2] McIver, J. W. et al. Light-induced anomalous Hall effect in graphene. Nat. Phys. 16,38–41 (2020).
+[3] Ben-Tal, N., Moiseyev, N. & Beswick, A. The effect of Hamiltonian symmetry on generation of odd and even harmonics. J. Phys. B 26, 3017–3024 (1993).
+[4] Neufeld, O., Podolsky, D. & Cohen, O. Floquet group theory and its application to selection rules in harmonic generation. Nat Commun 10, 405 (2019).
+[5] Nagai, K., Uchida, K., Yoshikawa, N. et al. Dynamical symmetry of strongly light-driven electronic system in crystalline solids. Commun Phys 3, 137 (2020).
+[6] Zaks, B., Liu, R. B. & Sherwin, M. S. Experimental observation of electron–hole recollisions. Nature 483, 580–583 (2012).
+
+
 # 第19回
 日時: 2020年9月23日(<font color="red">水</font>)11:00- <font color="red">注:曜日がいつもと違います</font><br> 
 発表者: 田村駿（名大工）<br>
