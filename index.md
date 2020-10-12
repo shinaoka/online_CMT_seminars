@@ -38,7 +38,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 # 第28回
 日時: 2020年11月24日(<font color="red">火</font>)11:00- <font color="red">注:曜日がいつもと違います</font><br>
-発表者: 高橋惇(中国科学院物理研究所）<br>
+発表者: 高橋惇(中国科学院理論物理研究所）<br>
 発表題目: TBA
 
 [登録フォーム](https://docs.google.com/forms/d/1fin8KB1K_Jl2dUeNqvjaeywADzXsd2yzej72edwnk40/viewform)
