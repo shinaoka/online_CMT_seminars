@@ -66,11 +66,14 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 日時: 2020年11月16日(月)11:00-<br>
 発表者: 磯部大樹（MIT）<br>
 
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdKQNhlKvAiLYl2dLOFLtcu6TjgXRdpeJp4TuTLAFOKGsCODA/viewform)
+
 
 # 第26回
 日時: 2020年11月9日(月)11:00-<br>
 発表者: 岩﨑祐昂（東大）<br>
 
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSekt05G3furkTeozRf4npwkEC49APl-PZBWKq4BnZw1wG2BBA/viewform)
 
 # 第25回
 日時: 2020年11月2日(月)11:00-<br>
