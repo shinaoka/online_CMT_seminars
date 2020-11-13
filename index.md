@@ -77,9 +77,18 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第29回
 日時: 2020年11月30日(月)11:00-<br>
 発表者: 永井瞭（ISSP）<br>
-発表題目: (仮題)機械学習による密度汎関数の構築
+発表題目: 機械学習手法を用いた交換相関汎関数の構築とその展望
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd9zoGdCFUN_4QXJ_3M_l_YZvXQUMm6yt3UMN3GHXzx5KX0mQ/viewform)
+
+密度汎関数理論（DFT）は、穏やかな計算量で比較的高精度な計算を可能とするため、電子状態計算における標準的な手法として用いられている。しかし、DFTの電子間相互作用を書き表す部分の中に、厳密に書き下せない交換相関汎関数という部分が存在する。
+ 
+我々は機械学習の手法を用いて交換相関汎関数を系統的に構築する手法を研究している。まず、単純な１次元系において手法を適用し、DFTの数式操作の中に機械学習で構築された汎関数が有効であることを示す。その後、実際の物質への手法の拡張について紹介する。小分子の厳密な電子状態データをもとに機械学習を行うことで、幅広い分子系に用いることができる汎関数を構築した事例を示す。
+また、交換相関汎関数のような立式が困難な理論に対して機械学習を用いることによって期待される改善や新たな知見について議論する予定である。
+ 
+[1] R. Nagai, R. Akashi, S. Sasaki, and S. Tsuneyuki: Neural-network kohn-sham exchange-correlation potential and its out-of-training transferability. J. Chem. Phys. 148, 241737 (2018).
+[2] R. Nagai, R. Akashi and O. Sugino: Completing density functional theory by machine learning hidden messages from molecules. npj Comput. Mater. 6, 43(2020).
+ 
 
 # 第28回
 日時: 2020年11月24日(<font color="red">火</font>)11:00- <font color="red">注:曜日がいつもと違います</font><br>
