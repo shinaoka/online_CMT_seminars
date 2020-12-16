@@ -51,7 +51,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 石塚 淳（京大）<br>
 発表題目: ウラン系超伝導体UTe2の最近の進展と第一原理計算によるトポロジカル超伝導予測
 
-登録フォーム(準備中)
+[登録フォーム](https://docs.google.com/forms/d/1aOWmriPf8u00myklx6VWVFBeAIc0T8FjdskXTNhjRJM/viewform)
 
 
 # 第35回
@@ -79,6 +79,14 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfFdGtMzKkrya6HK8BfI79GVCHLx4FS6sbZvitsNUwnC7Arow/viewform)
 
+Lieb-Schultz-Mattis (LSM) 定理は最近、様々な系・文脈において研究されているが、元の定理はS=1/2 XXZ量子スピン鎖がuniqueかつgappedな基底状態を持たないことを主張するものであった。LSM定理は量子多体系のU(1) fluxへの応答という観点で定式化することができる。LSM定理は時間反転対称性存在下で議論されることが多いが、量子スピン系においてこのU(1) fluxによる定式化は、磁場存在下の状況に容易に拡張でき、量子スピン系の磁化プラトー上の基底状態縮退度（の下限）についての制限を課す。この条件はOshikawa-Yamanaka-Affleck条件[1]として知られ、2次元や3次元の量子スピン系でも成り立つことが経験的に知られている。最近ではLSM定理とその関連する現象が、量子相に対応する場の理論の持つ’t Hooftアノマリーの観点から調べられている[2]。他方で、磁化プラトーの性質のアノマリーによる研究はあまり行われていないのが現状である。
+本講演ではLSM定理とOshikawa-Yamanaka-Affleck条件、そしてアノマリーという観点から、フラストレート磁性体の磁化プラトー上の基底状態の性質を議論する。まず、チェッカーボード上の反強磁性Heisenberg模型の磁化プラトー上の基底状態のアノマリーを、空間的なtwistを伴う境界条件下で調べる[3]。次にカゴメ格子や三角スピンチューブ上の量子スピン系における1/3プラトー上の基底状態の共通点と違いについて、SU(3) Wess-Zumino-Witten理論のアノマリー[4]を使って議論する[5]。
+
+[1] M. Oshikawa, M. Yamanaka, and I. Affleck, Phys. Rev. Lett. 78, 1984 (1997). 
+[2] S. C. Furuya and M. Oshikawa, Phys. Rev. Lett. 118, 021601 (2017). 
+[3] S. C. Furuya and Y. Horinouchi, Phys. Rev. B 100, 174435 (2019). 
+[4] Y. Yao, C.-T. Hsieh, and M. Oshikawa, Phys. Rev. Lett. 123, 180201 (2019). 
+[5] S. C. Furuya, Y. Horinouchi, and T. Momoi, arXiv:2011.13095.
 
 
 # 第32回
