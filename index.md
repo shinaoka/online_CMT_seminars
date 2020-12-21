@@ -61,6 +61,9 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdiO6-Vx12nc3ouHEJvH55XmqwZcmYoCfEk2UUOw6Qs3NdMow/viewform)
 
+光を用いたポンプ-プローブ法によって相関電子系の非平衡物性を捉えることが可能となったことを背景に、非平衡過程を経て誘起される量子状態の研究が進んでいる[1]。本講演では、Mott絶縁体の励起状態であるη-pairing状態に着目し、その光誘起理論について解説する。η-pairing状態は約30年前に数理物理学者の楊振寧 (C. N. Yang) によって指摘されたHubbard模型の厳密な固有励起状態で、長距離に発達したペア密度波的な超伝導相関を有する状態である[2]。η-pairing状態は基底状態で実現しなかったためあまり注目されてこなかったが、我々は厳密対角化法などを駆使し、η-pairing状態が光照射によって誘起できることを理論的に示した[3]。特に、外場を印加したHubbard模型におけるη-pairing相関の上昇が、Hubbard模型の対称性とそれに基づく光学的選択則から説明できることを明らかにした[3]。また、我々は光誘起状態の伝道特性がη-pairing相関と深く結びついていることも示した[4]。今回はη-pairingの数学的な背景もふまえ、対応する数値計算の結果も示しながら、光誘起η-pairingの理論について紹介する予定である。
+
+[1] C. Giannetti, M. Capone, D. Fausti, M. Fabrizio, F. Parmigiani, and D. Mihailovic, Adv. Phys. 65, 58 (2016). [2] C. N. Yang, Phys. Rev. Lett. 63, 2144 (1989). [3] T. Kaneko, T. Shirakawa, S. Sorella, and S. Yunoki, Phys. Rev. Lett. 122, 077002 (2019). [4] T. Kaneko, S. Yunoki, and A. J. Millis, Phys. Rev.Research 2, 032027 (2020). [5] 金子竜也, 白川知功, 柚木清司, 固体物理 55(1), 21-29 (2020).
 
 
 # 第34回
