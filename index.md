@@ -71,6 +71,18 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdTSYhp9UaYWxOHHnxG4b-eUjES9NqauwPGZEEkbM4sB0E9BA/viewform)
 
+物性物理 (原子, 分子, 固体) は電子の多体問題, 原子核物理は陽子と中性子 (核子) の多体問題と捉えられる.
+電子, 陽子, 中性子は全てフェルミオンであることから, 原子核物理と物性物理は全てフェルミオンの多体問題であると捉えられ, 魔法数 (閉殻構造) などの共通した性質を持つ [1, 2] 一方, 相互作用の違いに由来する異なる性質も多く知られている.
+また, 原子核もフェルミオン多体系であることから, 密度汎関数理論や波動関数理論など, 電子系と共通した微視的な計算手法が広く用いられている [3].
+本講演では, まず, 原子核構造について簡単のレビューののち, 電子系と原子核の共通点・相違点に着目した原子核変形の起源に関する研究 [4] と, クーロン力の原子核構造への影響に関する近年の研究 [5, 6, 7] について簡単に紹介する.
+[1] K. Hagino and Y. Maeno. Found. Chem. 22, 267 (2020).
+[2] Y. Maeno, K. Hagion, and T. Ishiguro. Found. Chem. (In press).
+[3] J. A. Maruhn, P.-G. Reinhard, and E. Suraud. "Simple Models of Many-Fermion Systems" (Springer, 2010).
+[4] T. Naito, S. Endo, K. Hagino, and Y. Tanimura. arXiv:2009.05955 [physics.atom-ph] (2020).
+[5] T. Naito, R. Akashi, and H. Liang. Phys. Rev. C 97, 044319 (2018).
+[6] T. Naito, X. Roca-Maza, G. Colò, and H. Liang. Phys. Rev. C 99, 024309 (2019).
+[7] T. Naito, X. Roca-Maza, G. Colò, and H. Liang. Phys. Rev. C 9101 0263011 (2020).
+
 
 # 第38回
 日時: 2021年2月15日(月)11:00-<br>
