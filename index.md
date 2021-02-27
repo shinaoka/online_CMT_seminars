@@ -57,13 +57,13 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 # 第44回
 日時: 2021年4月20日(火)11:00-<br>
-発表者: 星野晋太郎（埼玉大）<br>
+発表者: 星野晋太郎（埼玉大）<br><font color="red">注:曜日が4月から変更になります</font>
 発表題目: TBA
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdlPar5cH7mf-GTlDgOTfK_aK0czc-BP7YghhJlIYkj1H_A5w/viewform)
 
 # 第43回
-日時: 2021年4月6日(火)11:00-<br>
+日時: 2021年4月6日(火)11:00-<br><font color="red">注:曜日が4月から変更になります</font>
 発表者: 中川大也（東大）<br>
 発表題目: TBA
 
