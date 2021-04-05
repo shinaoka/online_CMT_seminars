@@ -60,7 +60,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 北折 暁（東大）<br>
 発表題目: 創発インダクター：材料開拓とこれからの課題
 
-登録フォーム(準備中)
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGT4G4nGgeRktTRDDVw8Kb2-xWAyMkUWNtp4cTclJxtGjjWA/viewform)
 
 
 # 第44回
