@@ -61,14 +61,14 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第48回
 日時: 2021年6月29日(火)11:00-<br> 
 発表者: 水上 雄太（東大）<br>
-発表題目: TBA
+発表題目: (仮題)キタエフ量子スピン液体におけるマヨラナ励起の磁場角度依存性
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeRJcLVczmk_EGqij3V6theRWgmDtu_q0XTRoyY2G67d3uYRQ/viewform)
 
 # 第47回
 日時: 2021年6月22日(火)11:00-<br> 
 発表者: 那須 譲治（横浜国立大）<br>
-発表題目: TBA
+発表題目: (仮題)キタエフ量子スピン液体の磁気ダイナミクスと熱輸送
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfj-OnDhNJqxYO5z8WRK4kpHhfw02p8CxfRugIR_GQ8dWFxAQ/viewform)
 
