@@ -127,8 +127,6 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 金杉翔太（京大）<br>
 発表題目: 多バンド系におけるアナポール超伝導の理論
 
-[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfehi8eukxm1-l0Loh26cANH-LMb9c-7a5UfudzgNh2kVhT_Q/viewform) (閉鎖中)
-
 # 第41回
 日時: 2021年3月8日(月)11:00-<br>
 発表者: 國見昌哉（分子研）<br>
