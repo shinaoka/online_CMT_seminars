@@ -95,6 +95,13 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGT4G4nGgeRktTRDDVw8Kb2-xWAyMkUWNtp4cTclJxtGjjWA/viewform)
 
+磁気スキルミオンを始めとした非共面磁気構造においては、仮想的な磁場である創発磁場が伝導電子に作用する。創発磁場はこれに由来するトポロジカルホール効果を通じて、これまで多数の物質においてその静的な側面が実験的に観察されてきた。近年では創発電磁場の動的な側面に注目した研究も開拓されつつあり、その一環として提唱されたのが創発インダクター[1]である。創発インダクターはらせん型の磁気構造を電流駆動した際に生じる創発電場を検出・利用した素子で、素子の微細化が容易であることから応用面にも期待できる。既に本現象はGd3Ru4Al12において実証実験が行われている[2]が、この物質は転移温度が20K以下と低いことが問題であった。
+
+本講演ではYMn6Sn6を用いた室温における創発インダクタンスの観測[3]を解説する。この実験結果は単に転移温度が上がっただけでなく、予期しなかった複数の特徴や示唆を含んでおり、その起源や特性に関しては理論的解明が待たれる状況である。さらに講演の最後には今後残された課題を列挙していき、本研究領域の発展を願って布教を行う。
+
+[1] N. Nagaosa, Emergent inductor by spiral magnets. Jpn. J. Appl. Phys. 58, 12090 (2019).
+[2] T. Yokouchi et al. Emergent electromagnetic induction in a helical-spin magnet. Nature 586, 232-236 (2020). 
+[3] A. Kitaori et al. Emergent electromagnetic induction beyond room temperature. arXiv:2103.02814
 
 # 第44回
 日時: 2021年4月20日(火)11:00- <font color="red">注:曜日が4月から変更になります</font><br>
