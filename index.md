@@ -83,6 +83,24 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd6fp5FszeyILXS_9aIOZC_TQHFMlm5tqKmz9mSkJaGgdLQdw/viewform)
 
+自発的対称性の破れが起こる系でどのような形状の位相欠陥が生じるかという問題は
+その対称性の破れ方を位相幾何学で分類することで理解されてきた．
+このような位相欠陥に対する従来の認識を否定する物理現象が最近観測された[1]．
+U(1)対称性が自発的に破れた従来の超流体では量子渦と呼ばれる“糸状“の位相欠陥が実現し，
+その断面は台風の目の様に回転対称である．
+ところが，この実験系の超流動相では同様の対称性の破れが起こるにも関わらず，
+そこで観測された位相欠陥の形状はそれとは似ても似つかないものであった．
+本講演ではこの奇妙な位相欠陥が量子楕円渦と呼ばれる回転対称性を破った渦状態として定量的に理解され，
+“糸状“ではなく“帯状“の渦として存在することを示す[2]．
+
+[1] Seji Kang, Sang Won Seo, Hiromitsu Takeuchi, and Yong-il Shin
+Observation of Wall-Vortex Composite Defects in a Spinor Bose-Einstein
+Condensate
+Phys. Rev. Lett. 122, 095301 (2019)
+[2] Hiromitsu Takeuchi
+Quantum Elliptic Vortex in a Nematic-Spin Bose-Einstein Condensate
+Phys. Rev. Lett. 126, 195302 (2021)
+
 # 第51回
 日時: 2021年8月3日(火)11:00- <br>
 発表者: 中村 真（中央大）<br>
