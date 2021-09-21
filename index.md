@@ -72,7 +72,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第58回
 日時: 2021年11月16日(火)11:00- <br>
 発表者: 田財 里奈（名古屋大）<br>
-発表題目: 
+発表題目: TBA
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeZboh833NScAPpXGl07qYot5BiPzIf2atDNy73KT5BB5sCJQ/viewform)
 
@@ -80,7 +80,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第57回
 日時: 2021年11月2日(火)11:00- <br>
 発表者: 近藤 寛記（東大）<br>
-発表題目: 
+発表題目: TBA
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfLzkf7LSlV9uEtxwO4EtXQvqwo8vHL6-S4llAEumrFr1J1LQ/viewform)
 
