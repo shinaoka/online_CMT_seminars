@@ -89,7 +89,11 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 また、マグノンのトポロジカルな非線形応答に関する研究も紹介する。近年電子系において、電場に関する2次のホールカレントがベリー曲率の双極子モーメント（ベリー曲率双極子）で記述されることが明らかになっている[4]。我々はマグノンの温度勾配に関する2次の応答を考え、ベリー曲率双極子のような物理量を含んだ温度勾配とは垂直なカレントの表式を導いた[5]。特にネール反強磁性体では、PT対称性によって温度勾配とは垂直なカレントは上/下スピン由来のマグノンで逆方向に流れるため、期待できるのはスピン流である。このような非線形スピンネルンスト効果は、中心対称性を破った多くの単純なネール反強磁性体で起きることを議論する。
 
-[1] H. Katsura, N. Nagaosa, and P. A. Lee, Phys. Rev. Lett. 104, 066403 (2010). [2] V. A. Zyuzin and A. A. Kovalev, Phys. Rev. Lett. 117, 217203 (2016). [3] H. Kondo and Y. Akagi, arXiv:2012.02034. (Accepted in Physical Review Letters) [4] I. Sodemann and L. Fu, Phys. Rev. Lett. 115, 216806 (2015). [5] H. Kondo and Y. Akagi, arXiv:2109.09464.
+[1] H. Katsura, N. Nagaosa, and P. A. Lee, Phys. Rev. Lett. 104, 066403 (2010).
+[2] V. A. Zyuzin and A. A. Kovalev, Phys. Rev. Lett. 117, 217203 (2016). 
+[3] H. Kondo and Y. Akagi, arXiv:2012.02034. (Accepted in Physical Review Letters) 
+[4] I. Sodemann and L. Fu, Phys. Rev. Lett. 115, 216806 (2015). 
+[5] H. Kondo and Y. Akagi, arXiv:2109.09464.
 
 
 # 第56回
