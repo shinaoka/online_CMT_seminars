@@ -86,6 +86,20 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdjdHoU4JWn5YujXEUyr3xl81IxJAByTh5BakXgBwfuZmudKg/viewform)
 
+動的平均場理論(DMFT)[1]を超えて非局所相関を取り込む拡張のうち、dual fermion method [2]や Dynamical vertex approximation (DΓA) [3]のようなダイアグラム展開の方法を 用いるタイプの拡張において、2 体の局所バーテックスは重要な役割を持つ。しかし、連続時間量子モンテカルロ法(CT-QMC)[4]のような厳密な手法でこれを求めることは大きな計算リソースを必要する困難な作業である。これまで、このような困難を回避・軽減するための様々な努力がなされてきたが [5-7]、2 体の局所バーテックスを求めることは未だ容易ではない。 
+そこで、本研究では、厳密なフルバーテックスが持つ周波数構造に着目し、2 体の局所フルバーテックスの簡略形を提案した。その簡略化されたフルバーテックスを用いて、 DMFTで得られた自己エネルギーから簡略化形のフルバーテックスを見積もる方法と、 dual fermion method の計算を低い数値コストで行うための方法を開発した。本公演では、フルバーテックスの簡略化、および、開発した2 つの手法の詳細を説明し、いくつかのモデルへの適用結果を紹介する。
+
+Reference <br>
+[1] A. Georges, G. Kotliar, W. Krauth, and M. J. Rozenberg: Rev. Mod. Phys. 68, 13 (1996). <br>
+[2] J. Otsuki, H. Hafermann, and A. I. Lichtenstein, Phys. Rev. B, 90, 235132 (2014). <br>
+[3] Motoharu Kitatani, Thomas Schäfer, Hideo Aoki, and Karsten Held, Phys. Rev. B, 99, 041115 (2019).<br> 
+[4] A. N. Rubtsov, V. V. Savkin, and A. I. Lichtenstein: Phys. Rev. B 72, 035122 (2005). <br>
+[5] H. Shinaoka, D. Geffroy, M. Wallerberger, J. Otsuki, K. Yoshimi, E. Gull, and J. Kunes, SciPost Phys., 8, 12 (2020).<br> 
+[6] J. Kaufmann, P. Gunacker, and K. Held, Phys. Rev. B, 96, 035114 (2017).<br>
+[7] N. Wentzell, G. Li, A. Tagliavini, C. Taranto, G. Rohringer, K. Held, A. Toschi, and S. Andergassen, Phys. Rev. B, 102, 085106 (2020).<br>
+[8] R, Mizuno, M. Ochi, K. Kuroki: arXiv:2101.04466. <br>
+
+
 # 第58回
 日時: 2021年11月16日(火)11:00- <br>
 発表者: 田財 里奈（名古屋大）<br>
