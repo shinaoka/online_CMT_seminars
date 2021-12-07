@@ -81,7 +81,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 # 第60回
 日時: 2021年12月14日(火)11:00- <br>
-発表者: 播木 敦（大阪府立大<br>
+発表者: 播木 敦（大阪府立大)<br>
 発表題目: 内殻X線分光を用いた超伝導層状ニッケル酸化物の電子状態の理論研究
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfH6ojCtZmXFBla2v13uIwDnzEvGq1p6_jvzq0PAky5FcxguA/viewform)
