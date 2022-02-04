@@ -80,7 +80,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 山田 昌彦（阪大)<br>
 発表題目: TBA
 
-[登録フォーム](準備中)
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSe9SpcA0BZeYv5oK6lwZg3FWECN35XY9-Oa-qqPSytGuPb__w/viewform)
 
 # 第63回
 日時: 2022年2月8日(火)11:00- <br>
