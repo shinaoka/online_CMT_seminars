@@ -94,6 +94,8 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 大同 暁人（京大)<br>
 発表題目: 内因的超伝導ダイオード効果
 
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeDAYm08bAnpzqvA2ldQMJdeVYOolIDJSo3ieR9kV2_nla0ag/viewform)
+
 # 第68回
 日時: 2022年5月24日(火)11:00- <br>
 発表者: 中 惇（東京電機大学)<br>
@@ -103,7 +105,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 # 第67回
 日時: 2022年5月10日(火)11:00- <br>
-発表者: 増木 亮太（東大)<br>
+発表者: 曽根 和樹（東大)<br>
 発表題目: 非線形振動子のトポロジカルな同期現象(仮題)
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdYUkDErYjoBLXMTN_ltOGmL9sK4kerehnNvrEYavTlzpdbBA/viewform)
