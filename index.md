@@ -85,6 +85,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 日時: 2022年6月28日(火)11:00- <br>
 発表者: 森田　克洋（東京理科大)<br>
 発表題目: TBA
+
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf6v4G8dwm6-qudma7c0KbQeievrhOBFkfYITPujEh3Os7OhQ/viewform)
 
 
