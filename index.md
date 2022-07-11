@@ -137,6 +137,38 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSci3ZeOHUnEyM8Vh17Cf2sG-WaDjD9YmOpZrCy86ZgloBLySA/viewform)
 
+正方格子上のJ1-J2模型は、フラストレート量子磁性体の原型として精力的に研究が行われてきた。
+交替Neel相とストライプNeel相の間にスピン液体相やvalence bond solid (VBS)相
+などが現れることが提案された。
+正方格子上のJ1-J2模型から一次元的に切り出したフラストレートXXZ梯子模型は、
+類似性を保ちながら、場の理論や密度行列繰り込み群を活用し詳細に研究することのできる模型として興味深い。
+特に、等方的な模型(Δ=1)では、
+繰り込み群の流れの中でダイマー間の実効的引力相互作用が発生し、
+Haldane相とrung singlet (RS)相の間にcolumnar dimer (CD)相が現れることが、
+ボソン化解析と数値計算により明らかになった[1,2]。
+
+我々は、四体相互作用のあるXXZ梯子模型[3,4]、および、フラストレートXXZ梯子模型[5]の基底状態相図を解析した。
+四体相互作用を直接入れることで、ダイマー間相互作用の効果をより明確にすることができる。
+小さなXXZ異方性(Δ～1)と四体相互作用が組み合わされることで、種々の秩序相と
+featulessギャップ相 (RS、Haldane、RS*、Haldane*)からなる豊かな相図が得られることを明らかにした。
+ここで、RS* (Haldane*)相は、通常のRS (Haldane)状態と一方の鎖のスピンのz軸周りπ回転によって結びつくものである。
+featuless相間、秩序相間ではc=1ガウシアン転移が、
+featuless相と秩序相の間ではc=1/2イジング転移が起こり、それらの転移線がΔ=1で交差することを示した。
+フラストレートXXZ梯子模型でも、同様の相構造を得た。
+以上の結果は、ボソン化による有効場の理論と行列積状態を用いた数値計算によって得られたものである。
+特に、4つのfeatureless相がトポロジカル指数によって明確に区別されることを数値的に実証した。
+
+時間が許せば、フラストレートXXZ梯子模型について、
+上述の等方的な場合の近傍(Δ～1)だけでなく、
+容易面領域(Δ～0)におけるギャップ相とギャップレス相のなす相構造についても解説する。
+
+[References]<br>
+[1] O. A. Starykh and L. Balents, Phys. Rev. Lett. 93, 127202 (2004).<br>
+[2] T. Hikihara and O. A. Starykh, Phys. Rev. B 81, 064432 (2010).<br>
+[3] T. Ogino, S. Furukawa, R. Kaneko, S. Morita, and N. Kawashima, Phys. Rev. B 104, 075135 (2021).<br>
+[4] T. Ogino, R. Kaneko, S. Morita, S. Furukawa, and N. Kawashima, Phys. Rev. B 103, 085117 (2021).<br>
+[5] T. Ogino, R. Kaneko, S. Morita, and S. Furukawa, arXiv:2206.13048.<br>
+
 
 # 第71回
 日時: 2022年7月12日(火)11:00- <br>
