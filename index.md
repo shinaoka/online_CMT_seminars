@@ -93,7 +93,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 足立 景亮（理研)<br>
 発表題目: 斥力相互作用するアクティブマターモデルの非平衡協同現象
 
-[登録フォーム(準備中)]
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf1bB2bN0M5ebt0wUy7ZIsKzJxftiAzGxLnSYUXJlqFMkDAkw/viewform)
 
 
 # 第76回
