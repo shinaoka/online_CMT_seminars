@@ -96,7 +96,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: Kimberly Remund（OIST)<br>
 発表題目: Spin-1 Magnet - a u(3) Formalism
 
-[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLScsfy3Nuk0MrrQC4akElw053Ki3a4Z7ZYd7sdBLGc-V0MwAIQ/viewform)
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScsfy3Nuk0MrrQC4akElw053Ki3a4Z7ZYd7sdBLGc-V0MwAIQ/viewform)
 
 
 # 第79回
