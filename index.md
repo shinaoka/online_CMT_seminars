@@ -92,7 +92,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 
 # 第80回
-日時: 2022年12月13日(火)11:00- <strong>This talk will be gigen in English</strong><br>
+日時: 2022年12月13日(火)11:00- <strong>This talk will be given in English</strong><br>
 発表者: Kimberly Remund（OIST)<br>
 発表題目: Spin-1 Magnet - a u(3) Formalism
 
