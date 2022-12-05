@@ -98,6 +98,21 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScsfy3Nuk0MrrQC4akElw053Ki3a4Z7ZYd7sdBLGc-V0MwAIQ/viewform)
 
+Systems based on spin-1 moments exhibit many fascinating properties, as demonstrated by spin nematics [1,2], Fe-based superconductors [3], and cold atom systems [4]. However, because spin-1 moments beside displaying dipoles can also support quadrupoles at the level of a single site, they are not properly described by O(3) vectors, even in the classical limit.
+
+In this talk, we explore a new approach which correctly describes the (semi-)classical physics of spin-1 moments [5]. This approach, based on the algebra u(3) [6], provides a
+convenient starting point for Monte Carlo and molecular dynamics simulations, as well as for analytic theory. We benchmark our method by applying it to the ferroquadrupolar phase of the spin-1 bilinear-biquadratic model on the triangular lattice [5], reproducing and extending known results [1,2].
+
+These results open the prospect of exploring dynamical properties of spin-1 magnets which lie outside the spin-wave paradigm, including spin-liquid phases, and the dynamics of topological excitations.
+
+[1] H. Tsunetsugu and M. Arikawa, J. Phys. Soc. Jpn 75, 083701 (2006)
+[2] A. Laeuchli et al, Phys. Rev. Lett. 97, 087205 (2006)
+[3] R. M. Fernandes et al., Nature Physics 10, 97 EP (2014)
+[4] E. Demler and F. Zhou, Phys. Rev. Lett. 88, 163001 (2002)
+[5] K. Remund et al., Phys. Rev. Research 4 033106 (2022)
+[6] N. Papanicolaou, Nuclear Physics B 305, 367 (1988)
+
+
 
 # 第79回
 日時: 2022年12月6日(火)17:00- <strong>通常と開催時刻が異なります</strong><br>
