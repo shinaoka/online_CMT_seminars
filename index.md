@@ -105,12 +105,12 @@ convenient starting point for Monte Carlo and molecular dynamics simulations, as
 
 These results open the prospect of exploring dynamical properties of spin-1 magnets which lie outside the spin-wave paradigm, including spin-liquid phases, and the dynamics of topological excitations.
 
-[1] H. Tsunetsugu and M. Arikawa, J. Phys. Soc. Jpn 75, 083701 (2006)
-[2] A. Laeuchli et al, Phys. Rev. Lett. 97, 087205 (2006)
-[3] R. M. Fernandes et al., Nature Physics 10, 97 EP (2014)
-[4] E. Demler and F. Zhou, Phys. Rev. Lett. 88, 163001 (2002)
-[5] K. Remund et al., Phys. Rev. Research 4 033106 (2022)
-[6] N. Papanicolaou, Nuclear Physics B 305, 367 (1988)
+[1] H. Tsunetsugu and M. Arikawa, J. Phys. Soc. Jpn 75, 083701 (2006) <br>
+[2] A. Laeuchli et al, Phys. Rev. Lett. 97, 087205 (2006) <br>
+[3] R. M. Fernandes et al., Nature Physics 10, 97 EP (2014) <br>
+[4] E. Demler and F. Zhou, Phys. Rev. Lett. 88, 163001 (2002) <br>
+[5] K. Remund et al., Phys. Rev. Research 4 033106 (2022) <br>
+[6] N. Papanicolaou, Nuclear Physics B 305, 367 (1988) <br>
 
 
 
