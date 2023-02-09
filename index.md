@@ -102,6 +102,15 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSey1PlzO4o3UlaOpJvtjHfaEcbuMoHJg0KummDFujAXF9JeQA/viewform)
 
 
+# 第83回
+日時: 2023年2月28日(火)11:00-<br>
+発表者: TBA（TBA)<br>
+発表題目: TBA
+
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdLo5Oq5S5mYfeIILNE3STwZ4Pfm6dUYm9xpsMX4gpbAy6jHA/viewform)
+
+
+
 # 第82回
 日時: 2023年2月7日(火)11:00-<br>
 発表者: 大岩 陸人（明治大)<br>
