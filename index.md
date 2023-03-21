@@ -99,6 +99,9 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 仲澤 一輝（東大)<br>
 発表題目: 量子輸送現象によって検出する物質中のトポロジカル構造
 
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSey1PlzO4o3UlaOpJvtjHfaEcbuMoHJg0KummDFujAXF9JeQA/viewform)
+
+
 　物質中で創発するトポロジカルな構造は，量子Hall効果やBKT転移などを端緒として，精力的に調べられてきた．前者は電子バンドが，後者はスピンがつくるトポロジカル構造であり，その後トポロジカル絶縁体，Weyl半金属，そして磁気スカーミオンといったコンセプトへと発展した．本講演ではこのような物質中のトポロジカルな構造を量子輸送現象によって検出することを念頭に，異なる2つのテーマについて議論する．
 
 　一つ目に，カゴメ強磁性体Co3Sn2S2の原子層薄膜のトポロジカル物性について報告する．この物質では，自発的な時間反転対称性の破れによるWeyl点に起因する巨大な異常Hall効果や負の磁気抵抗効果などが報告されている[1]．一方で，Coカゴメ単層物質においてChern絶縁体状態が報告されており[2]，この実験的観測が待たれる．ところが，3次元空間のトポロジカルな特異点であるWeyl点が2次元物質におけるChern絶縁体状態にどのように反映されているのかは非自明であり，これを理解することは極薄膜作製の上でも重要である．我々は第一原理計算に基づき，Coカゴメ単層・2層・3層構造について，表面終端原子がSnの場合とSの場合を考え，トポロジカル物性の原子層数依存性を調べた．その結果，表面終端原子がSnの場合には強磁性，バンドトポロジー，異常Hall伝導度などの輸送特性が薄膜からbulkにかけて系統的に接続する一方，Sの場合にはこれらの性質が層数に依存し，原子層薄膜では表面終端原子によって物理的特性が大きく異なることを見出した[3]．
@@ -111,10 +114,6 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 [4] B. Göbel, A. Mook, J. Henk, and I. Mertig, Phys. Rev. B 96, 060406(R) (2017); C. A. Akosa, O. A. Tretiakov, G. Tatara, and A. Manchon, Phys. Rev. Lett. 121, 097204 (2018). <br>
 [5] K. Nakazawa, K. Hoshi, J. J. Nakane, J. Ohe, and H. Kohno, in preparation. <br>
 
-
-
-
-[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSey1PlzO4o3UlaOpJvtjHfaEcbuMoHJg0KummDFujAXF9JeQA/viewform)
 
 
 # 第83回
