@@ -103,7 +103,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 幸城 秀彦 (理研)<br>
 発表題目: 多段磁化プラトーを実現するフラストレートスピンラダーの理論的研究
 
-[Registration form] (https://docs.google.com/forms/d/1AZ2vnlqasIq_aPIRKz-gpRuYYN98qmBANrtXJkC81Jc/viewform)
+[Registration form](https://docs.google.com/forms/d/1AZ2vnlqasIq_aPIRKz-gpRuYYN98qmBANrtXJkC81Jc/viewform)
 
 
 # 第86回
@@ -111,7 +111,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 小沢 耀弘 (東大)<br>
 発表題目: TBA
 
-[Registration form] (https://docs.google.com/forms/d/13_pQ2ZXzbPLzy4ftzviHSBSMIkuBPWsv3EZiBYlIk4g/viewform)
+[Registration form](https://docs.google.com/forms/d/13_pQ2ZXzbPLzy4ftzviHSBSMIkuBPWsv3EZiBYlIk4g/viewform)
 
 
 # 第85回
