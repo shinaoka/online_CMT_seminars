@@ -119,8 +119,8 @@ BIP-TENOの磁化過程で特徴的なのは, 磁場の発生方法によって�
 本講演ではこの可解なS=1スピンラダー模型の基底状態の構成方法について詳しく述べる.
 時間が許せば解析的に解くための条件を緩めた模型での数値計算結果や実験結果との関連性についても述べる.
 
-[1] Kazuya Nomura, Yasuhiro H. Matsuda, Akihiko Ikeda, Yoshimitsu Kohama, Hiroshi Tsuda, Naoki Amaya, Toshio Ono, and Yuko Hosokoshi, Phys. Rev. B 105, 214430 (2022).
-[2] Hidehiko Kohshiro, Ryui Kaneko, Satoshi Morita, Hosho Katsura, and Naoki Kawashima, Phys. Rev. B 104, 214409 (2021).
+[1] Kazuya Nomura, Yasuhiro H. Matsuda, Akihiko Ikeda, Yoshimitsu Kohama, Hiroshi Tsuda, Naoki Amaya, Toshio Ono, and Yuko Hosokoshi, Phys. Rev. B 105, 214430 (2022). <br>
+[2] Hidehiko Kohshiro, Ryui Kaneko, Satoshi Morita, Hosho Katsura, and Naoki Kawashima, Phys. Rev. B 104, 214409 (2021). <br>
 
 
 # 第86回
