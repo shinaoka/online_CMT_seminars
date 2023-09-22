@@ -1,4 +1,4 @@
-![image](https://github.com/shinaoka/online_CMT_seminars/assets/5283824/7054660c-5a20-4a60-a026-9fffa064d3a7)![image](https://github.com/shinaoka/online_CMT_seminars/assets/5283824/d4f74b7d-9ad8-48c6-aea2-dc07631eacfe)Web会議ツールZoomを利用したオンライン物性理論セミナーです。
+Web会議ツールZoomを利用したオンライン物性理論セミナーです。
 
 登録する際のメールアドレスは、できるだけ大学もしくは研究機関のものをご使用ください。
 
