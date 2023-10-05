@@ -106,8 +106,8 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 # 第9X回
 日時: 2023年12月19日(火)11:00-<br>
-発表者:金賀　　穂 (千葉大)<br>
-発表題目:TBA
+発表者: 金賀 穂 (千葉大)<br>
+発表題目: TBA
 
 [Registration form]()
 
@@ -115,8 +115,8 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 # 第92回
 日時: 2023年11月7日(火)11:00-<br>
-発表者:鏡原 大地 (近大)<br>
-発表題目:TBA
+発表者: 鏡原 大地 (近大)<br>
+発表題目: TBA
 
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSceJJYcmNAUhyV06NSmWjv-Ycfm7BhWh7jgMcei1MX7uQoxcw/viewform)
 
@@ -125,7 +125,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第91回
 日時: 2023年10月24日(火)11:00-<br>
 発表者: 新城 一矢 (理研)<br>
-発表題目:光励起したモット絶縁体の吸収スペクトル
+発表題目: 光励起したモット絶縁体の吸収スペクトル
 
 [Registration form](https://docs.google.com/forms/d/1tF7x5iJevdhps5GqdZN4hF6AW226zBrQiyVgFZXYL7E/viewform)
 
