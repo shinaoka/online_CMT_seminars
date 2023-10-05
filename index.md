@@ -109,7 +109,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 金賀 穂 (千葉大)<br>
 発表題目: TBA
 
-[Registration form]()
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScX9Z5wo0HYm4eToBg6zGptZdCIRcuKTmPbFwexoVrjybwOlQ/viewform)
 
 
 
