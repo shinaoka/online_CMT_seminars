@@ -127,8 +127,8 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 論文[3]では、初期状態をMott絶縁状態とし、ホッピング振幅のわずかな増加によって誘導されるダイナミクスを調べた。この場合の低エネルギー励起状態は、クエンチによってエンタングルされた対として励起される、doublonとholonというフェルミオン準粒子によってよく記述される。Rényiエンタングルメントエントロピーをこれらの準粒子の相関関数を用いて解析的に表せることが分かった。また、得られた表式に基づいて、Rényiエンタングルメントエントロピーの振る舞いの物理的な解釈を与えた。
 
 [1] R. Islam, R. Ma, P. M. Preiss, M. Eric Tai, A. Lukin, M. Rispoli, and M. Greiner, Nature (London) 528, 77 (2015); A. M. Kaufman, M. E. Tai, A. Lukin, M. Rispoli, R. Schittko, P. M. Preiss, and M. Greiner, Science 353, 794 (2016). <br>
-[2] D. Kagamihara, R. Kaneko, S. Yamashika, K. Sugiyama, R. Yoshii, S. Tsuchiya, I. Danshita, Phys. Rev. A 107, 033305 (2023).<br>
-[3] S. Yamashika, D. Kagamihara, R. Yoshii, S. Tsuchiya, arXiv:2209.13340 (accepted in Phys. Rev. Res.).<br>
+[2] D. Kagamihara, R. Kaneko, S. Yamashika, K. Sugiyama, R. Yoshii, S. Tsuchiya, and I. Danshita, Phys. Rev. A 107, 033305 (2023).<br>
+[3] S. Yamashika, D. Kagamihara, R. Yoshii, and S. Tsuchiya, arXiv:2209.13340 (accepted in Phys. Rev. Res.).<br>
 
 
 # 第91回
