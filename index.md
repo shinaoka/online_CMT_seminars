@@ -118,7 +118,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表者: 大熊 信之 (九工大)<br>
 発表題目: 2粒子トポロジーを用いた分数チャーン絶縁体の特徴付け
 
-[Registration form] (https://docs.google.com/forms/d/e/1FAIpQLSdfaGDdVjmzkuLiN4ksLSOd9TINqvbQkUJbSotjBykNHL2kYw/viewform)
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdfaGDdVjmzkuLiN4ksLSOd9TINqvbQkUJbSotjBykNHL2kYw/viewform)
 
 強相関系におけるトポロジー効果に関する研究は、自由粒子系の場合に比べ多くの課題を残している。
 そのような状況にあって「分数量子ホール効果」の物理は、長年の研究蓄積のある数少ない研究領域の一つである。
