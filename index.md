@@ -131,9 +131,9 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 特に、バンド構造の平坦条件や量子幾何テンソルの理想的条件 [2]といった、1粒子の性質に着目した研究が盛んに行われている。
 本発表ではそれらの試みをレビューしつつ、我々の行った「2粒子束縛状態のトポロジー」に注目した研究 [3]について紹介する。
 
-[1] T. Neupert, L. Santos, C. Chamon, and C. Mudry, PRL 106, 236804 (2011).
-[2] R. Roy, Phys. Rev. B 90, 165139 (2014).
-[3] NO and T. Mizoguchi, Phys. Rev. Res. 5, 013112 (2023).
+[1] T. Neupert, L. Santos, C. Chamon, and C. Mudry, PRL 106, 236804 (2011). <br>
+[2] R. Roy, Phys. Rev. B 90, 165139 (2014). <br>
+[3] NO and T. Mizoguchi, Phys. Rev. Res. 5, 013112 (2023). 
 
 
 # 第92回
