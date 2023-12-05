@@ -110,10 +110,11 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 
 # 第9X回
-日時: 2024年1月30日(火)11:00-<br>
+日時: 2024年1月30日(火)11:00-<strong>This talk will be given in English</strong><br>
 発表者: Rico Pohle (Keio Univ.)<br>
 発表題目: TBA
 
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScWMEL79BCsdw_MWfMYTzOzXbaU2irlS4X0pWKDfUfPEl9eUg/viewform)
 
 # 第94回
 日時: 2023年12月19日(火)11:00-<br>
