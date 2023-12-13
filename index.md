@@ -123,6 +123,20 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScX9Z5wo0HYm4eToBg6zGptZdCIRcuKTmPbFwexoVrjybwOlQ/viewform)
 
+ 固体電子系（グラフェンや半導体・モット絶縁体など）やスピン系（反強磁性体・スピン鎖・キタエフ磁性体など）における高次高調波発生（HHG）が精力的に研究されている[1]。HHGを始めとする非線形光学応答の性質は結晶の対称性に大きく左右され、特に空間反転対称性を持つ系では偶数次高調波と光整流の発生が禁止される。空間反転対称な系において偶数次高調波や光整流を生成するには何らかの外因的な要素によって動的対称性[2]を破る必要がある。この外因要素の導入は、最初から空間反転対称性の破れた系を考えるより複雑なセットアップを要するが、一方、物質を変えることなく偶数次高調波の発生をコントロールできるという利点をもたらす。
+ 反転対称性で禁止された応答を引き出すための有望な「外因的な要素」として、(i) DC電流(電場)の印加[3-5]、あるいは、(ii) 2色レーザーの印加[6,7]が考えられる。本講演では(i), (ii)に関連し、量子マスター方程式[8]を用いることで散逸の効果を考慮した数値解析の結果について紹介する[4,5,7]。まず固体電子系において、グラフェンにおけるDC電流による偶数次高調波の誘起と2色レーザーによる光電流生成について解析した[5,7]。広いパラメータ空間で摂動的領域と非摂動的領域の両方に同時にアクセスできる数値解析のメリットを活かして、特徴的なスペクトル構造の変化を捉えた。次に、スピン系、特に電気磁気結合を持つキタエフスピン液体[9]におけるHHGを解析した[4]。磁歪型電気磁気結合の導入による対称性の低下から第二高調波が発生することや、スペクトルの特徴的な磁場依存性を見出した。講演ではこれらの解析結果の詳細について報告する。
+
+[1] O. Schubert, et al., Nat. Photon. 8, 119 (2014); N. Yoshikawa, et al., Science 356, 736 (2017); Z.-Y. Zhang, et al., Nat. Commun. 14, 1795 (2023), etc. <br>
+[2] O. Neufeld, D. Podolsky, and O. Cohen, Nat. Commun. 10, 1 (2019). <br>
+[3] S. Wu, et al., Nano Lett. 12, 2032 (2012); K. Takasan, et al., Phys. Rev. B 104, L161202 (2021); J. L. Cheng, et al., Opt. Express 22, 15868 (2014). <br>
+[4] M. Kanega, T. N. Ikeda, and M. Sato, Phys. Rev. Res. 3, L032024 (2021). <br>
+[5] M. Kanega and M. Sato, in preparation. <br>
+[6] Y. Ikeda, S. Kitamura, and T. Morimoto, Phys. Rev. Lett. 131, 096301 (2023). <br>
+[7] M. Kanega and M. Sato, in preparation. <br>
+[8] H.-P. Breuer and F. Petruccione, The Theory of Open Quantum Systems (Oxford University Press, 2007); T. N. Ikeda and M. Sato, Phys. Rev. B 100, 214424 (2019). <br>
+[9] A. Kitaev, Ann. Phys. 321, 2 (2006); Y. Motome and J. Nasu, J. Phys. Soc. Jpn. 89, 012002 (2020); Y. Tokura, S. Seki, and N. Nagaosa, Rep. Prog. Phys. 77, 076501 (2014). <br>
+
+
 
 # 第93回
 日時: 2023年11月28日(火)11:00-<br>
