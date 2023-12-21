@@ -10,8 +10,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 世話人:　高三和晃（東大）、下川統久朗（OIST）、永井佑紀（原子力機構）、品岡寛（埼玉大学)
 
 
-* [第9X回:  Rico Pohle (Keio Univ.) 「The S=1/2 pyrochlore Heisenberg antiferromagnet: 
-A quantum spin liquid emergent from dimensional reduction」](#第9X回)
+* [第9X回:  Rico Pohle (Keio Univ.) 「The S=1/2 pyrochlore Heisenberg antiferromagnet:A quantum spin liquid emergent from dimensional reduction」](#第9X回)
 * [第94回:  金賀 穂 (千葉大) 「電子系・スピン系における非線形光学応答の制御法についての理論解析」](#第94回)
 * [第93回:  大熊 信之 (九工大) 「2粒子トポロジーを用いた分数チャーン絶縁体の特徴付け](#第93回)
 * [第92回:  鏡原 大地 (近大) 「理想Bose粒子系および強く相互作用するBose粒子系におけるRényiエンタングルメントエントロピーのクエンチダイナミクス」](#第92回)
