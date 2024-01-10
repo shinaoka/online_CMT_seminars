@@ -10,6 +10,8 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 世話人:　高三和晃（東大）、下川統久朗（OIST）、永井佑紀（原子力機構）、品岡寛（埼玉大学)
 
 
+
+* [第9X回:  深井 康平 (東大物性研) 「一次元Hubbard模型における局所保存量の表式」](#第9X回)
 * [第9X回:  Rico Pohle (Keio Univ.) 「The S=1/2 pyrochlore Heisenberg antiferromagnet:A quantum spin liquid emergent from dimensional reduction」](#第9X回)
 * [第94回:  金賀 穂 (千葉大) 「電子系・スピン系における非線形光学応答の制御法についての理論解析」](#第94回)
 * [第93回:  大熊 信之 (九工大) 「2粒子トポロジーを用いた分数チャーン絶縁体の特徴付け](#第93回)
@@ -107,7 +109,11 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 * [第1回:  光元亨汰「凍結した乱れのない系におけるスピングラス転移」](#第1回)
 
 
-
+# 第9X回
+日時: 2024年2月6日(火)11:00-<br>
+発表者: 深井 康平 (東大物性研)<br>
+発表題目: 一次元Hubbard模型における局所保存量の表式
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScku9I8rS4jqN5uhEfgYd4V8AspbZDL1KWcZ9ra-1psU94xbw/viewform)
 
 # 第9X回
 日時: 2024年1月30日(火)11:00-<strong>This talk will be given in English</strong><br>
