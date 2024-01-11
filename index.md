@@ -112,7 +112,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第9X回
 日時: 2024年2月6日(火)11:00-<br>
 発表者: 深井 康平 (東大物性研)<br>
-発表題目: 一次元Hubbard模型における局所保存量の表式
+発表題目: 一次元Hubbard模型における局所保存量の表式<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScku9I8rS4jqN5uhEfgYd4V8AspbZDL1KWcZ9ra-1psU94xbw/viewform)
 
 # 第9X回
