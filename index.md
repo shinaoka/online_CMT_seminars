@@ -12,7 +12,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 
 * [第9X回:  深井 康平 (東大物性研) 「一次元Hubbard模型における局所保存量の表式」](#第9X回)
-* [第9X回:  Rico Pohle (Keio Univ.) 「The S=1/2 pyrochlore Heisenberg antiferromagnet:A quantum spin liquid emergent from dimensional reduction」](#第9X回)
+* [第95回:  Rico Pohle (Keio Univ.) 「Ground state of the S=1/2 pyrochlore Heisenberg antiferromagnet:A quantum spin liquid emergent from dimensional reduction」](#第95回)
 * [第94回:  金賀 穂 (千葉大) 「電子系・スピン系における非線形光学応答の制御法についての理論解析」](#第94回)
 * [第93回:  大熊 信之 (九工大) 「2粒子トポロジーを用いた分数チャーン絶縁体の特徴付け](#第93回)
 * [第92回:  鏡原 大地 (近大) 「理想Bose粒子系および強く相互作用するBose粒子系におけるRényiエンタングルメントエントロピーのクエンチダイナミクス」](#第92回)
@@ -115,12 +115,25 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表題目: 一次元Hubbard模型における局所保存量の表式<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScku9I8rS4jqN5uhEfgYd4V8AspbZDL1KWcZ9ra-1psU94xbw/viewform)
 
-# 第9X回
+# 第95回
 日時: 2024年1月30日(火)11:00-<strong>This talk will be given in English</strong><br>
 発表者: Rico Pohle (Keio Univ.)<br>
-発表題目: The S=1/2 pyrochlore Heisenberg antiferromagnet:A quantum spin liquid emergent from dimensional reduction
+発表題目: Ground state of the S=1/2 pyrochlore Heisenberg antiferromagnet:
+A quantum spin liquid emergent from dimensional reduction
 
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScWMEL79BCsdw_MWfMYTzOzXbaU2irlS4X0pWKDfUfPEl9eUg/viewform)
+
+The quest for quantum spin liquids (QSLs) has posed challenges to both experimental and theoretical disciplines for approximately 50 years since their conceptual proposal on the triangular lattice [1]. Two-dimensional frustrated magnets, such as Kitaev, triangular, or kagome materials, have proven to be excellent platforms for the exploration of QSLs [2]. In three dimensions, the pyrochlore lattice stands out as a prime example, offering a diverse spectrum of spin liquids, including spin ice, quantum spin ice, and higher-rank spin liquids [3,4]. These have been comprehensively understood through classical approaches and their perturbative expansions. <br>
+The ground state of the fully quantum S=1/2 Heisenberg antiferromagnet (HAF) on the pyrochlore lattice has been a subject of intense debate for over three decades, with conflicting arguments suggesting both the presence and the absence of a QSL ground state. Recent state-of-the-art numerical investigations propose a symmetry-broken and essentially classical ground state [5]. However, to achieve a convincing and conclusive understanding, theoretical work must incorporate a comprehensive finite-size analysis to make reliable estimates in the thermodynamic limit. Without such an analysis, the nature of the ground state remains an open question.<br>
+In this talk, we demonstrate that the ground state of the S=1/2 pyrochlore HAF is indeed a QSL [6]. By employing the state-of-the-art "many-variable variational Monte Carlo" method, we solve the full quantum many-body Hamiltonian and unveil an emergent dimensional reduction in the ground state with dominant algebraic correlations in a confined 2D subspace. By examining an effective 2D lattice model, we validate the algebraic decay of spin and singlet correlations in large system sizes and observe a vanishing excitation gap in the thermodynamic limit. The wave-function structure supports the fractionalization of spins into spinons. Importantly, this QSL proves to be robust against spin-orbit interactions, expanding the possibilities of realizing QSLs in real materials such as iridium pyrochlore oxides.<br>
+
+[1] P. Anderson, Mater. Res. Bull 8, 153 (1973).<br>
+[2] L. Balents, Nature 464, 199 (2010).<br>
+[3] J. G. Rau and M. J. Gingras, Annu. Rev. Condens. Matter Phys. 10, 357 (2019).<br>
+[4] H. Yan, et al., PRL 124, 127203 (2020).<br>
+[5] I. Hagymási, et al., PRL. 126, 117204 (2021), N. Astrakhantsev, et al., PRX 11, 041021 (2021), R. Schäfer and B. Placke et al., Phys. Rev. Lett. 131, 096702 (2023). <br>
+[6] R. Pohle, Y. Yamaji, M. Imada, arXiv:2311.11561 <br>
+
 
 # 第94回
 日時: 2023年12月19日(火)11:00-<br>
