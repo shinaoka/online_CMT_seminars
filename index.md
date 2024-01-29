@@ -120,6 +120,19 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表題目: 一次元Hubbard模型における局所保存量の表式<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScku9I8rS4jqN5uhEfgYd4V8AspbZDL1KWcZ9ra-1psU94xbw/viewform)
 
+量子可積分系はBethe仮設を用いた厳密解を有するが、その背景には無限個の局所保存量の存在がある。量子逆散乱法における転送行列の議論より、局所保存量の存在自体は保証されるが、それらの具体的な表式を導くことは困難である。代表的な量子可積分系であるspin-1/2 XYZ鎖と一次元Hubbard模型について、これまで特にそれらの表式が調べられてきた。XYZ鎖については、Boost operatorを用いた局所保存量の漸次的構成法が知られ[1]、最近全ての局所保存量の表式が陽に得られた[2]。XXZの場合については、Temperley-Lieb代数を用いた構成法も最近発見された[3]。
+
+一方、一次元Hubbard模型の局所保存量の一般的な構造は未解明であった。Hubbard模型の場合の難しさとして、Boost operatorを用いた漸次的構成法が適用できないという点がある。これはHubbard模型のR行列がspectral parameterの差分の依存性を持たないことに起因する。これまで、低次の3つの局所保存量の表式が得られていたが、より高次の具体的な表式については知られていなかった[1]。
+
+本研究では、一次元Hubbard模型の全ての局所保存量の表式を求めた[4,5]。それらはある特殊なXX鎖の局所保存密度の積の線型結合から構成され、高次の保存量では非自明な係数が線型結合に登場し、その係数を計算する漸化式を導出した。一部の係数はXXX鎖の局所保存量にも登場するCatalan数[1]であることが分かった。今回の結果はBoost operatorが適用できない量子可積分系において、局所保存量の一般的な表式が求まった最初の例である[4]。今回求まった局所保存量と独立な局所保存量が存在しないことも示した[5]。
+
+[1] M. P. Grabowski and P. Mathieu, Ann. Phys. 243, 299 (1995).<br>
+[2] Y. Nozawa and K. Fukai, Phys. Rev. Lett. 125, 90602 (2020).<br>
+[3] B. Nienhuis and O. E. Huijgen, J. Phys. A: Math. Theor. 54, 304001 (2021). <br>
+[4] K. Fukai, Phys. Rev. Lett. 131, 256704 (2023).<br>
+[5] K. Fukai, arXiv:2309.09354 (2023).<br>
+
+
 # 第95回
 日時: 2024年1月30日(火)11:00-<strong>This talk will be given in English</strong><br>
 発表者: Rico Pohle (Keio Univ.)<br>
