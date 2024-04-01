@@ -9,7 +9,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 世話人:　高三和晃（東大）、下川統久朗（OIST）、永井佑紀（原子力機構）、品岡寛（埼玉大学)
 
-
+* [第98回:  鈴木 遼太郎 (ベルリン自由大学) 「観測ランダム回路における量子複雑性相転移」](#第98回)
 * [第97回:  山岸 愛 (東大理) 「量子ウォークの高次元化と量子アクティブ粒子の提案」](#第97回)
 * [第96回:  深井 康平 (東大物性研) 「一次元Hubbard模型における局所保存量の表式」](#第96回)
 * [第95回:  Rico Pohle (Keio Univ.) 「Ground state of the S=1/2 pyrochlore Heisenberg antiferromagnet:A quantum spin liquid emergent from dimensional reduction」](#第95回)
@@ -107,6 +107,18 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 * [第3回:  奥村駿「空間反転対称性の破れた金属における磁気ヘッジホッグ格子の安定性とトポロジカル転移」](#第3回) 
 * [第2回:  植木輝「第二種超伝導体の渦状態におけるホール効果」](#第2回)
 * [第1回:  光元亨汰「凍結した乱れのない系におけるスピングラス転移」](#第1回)
+  
+# 第98回
+日時: 2024年4月9日(火)16:30-<b>通常と開催時間が違いますのでお気を付け下さい。</b><br>
+発表者: 鈴木　遼太郎 (ベルリン自由大学)<br>
+発表題目: 観測ランダム回路における量子複雑性相転移<br>
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSf86GMXX670xhR4l1Y92fzlpMFumD8mVFlL1PkV99ErFySeRA/viewform)
+
+ユニタリ発展と量子測定の両方から成る、量子系の観測されたダイナミクスが、主に測定誘起相転移と呼ばれるある種の相転移現象を示すことにより近年は注目を集めている[1,2]。一方で、量子状態の複雑性を定量的に求めることは、量子計算、量子多体ダイナミクス、高エネルギー物理学における現象を理解する上で重要な役割を果たすことが期待されている[3]。ここである量子状態の量子複雑性とは、その状態を直積状態から量子計算機を用いて生成するために必要な局所ユニタリ演算子の最小数である。 
+
+本発表では、観測ランダム回路において量子複雑性がどう振る舞うかを議論する。具体的に我々は、多数の量子ビットがランダムユニタリ回路に従って時間発展し、かつ各時間ステップにある頻度で個々の量子ビットが測定されるような場合における、量子複雑性のダイナミクスを考察した。そして、測定頻度を変えると量子複雑性の時間発展の様子がある臨界測定頻度を境に大きく変わることを厳密に示した。本結果は、観測ランダム回路が量子複雑性の相転移を示す興味深いトイモデルであることを示唆している。本発表は論文[4]に基づく。
+
+[1] Brian Skinner, Jonathan Ruhman, and Adam Nahum. “Measurement-induced phase transitions in the dynamics of entanglement.” Physical Review X 9.3 (2019). [2] Yaodong Li , Xiao Chen, and Matthew PA Fisher. “Measurement-driven entanglement transition in hybrid quantum circuits.” Physical Review B 100.13 (2019). [3] Scott Aaronson. “The complexity of quantum states and transformations: from quantum money to black holes.” arXiv preprint arXiv:1607.05256 (2016).  [4] Ryotaro Suzuki, Jonas Haferkamp, Jens Eisert, Philippe Faist. “Quantum complexity phase transitions in monitored random circuits.” arXiv preprint arXiv:2305.15475 (2023).
 
 # 第97回
 日時: 2024年2月27日(火)11:00-<br>
