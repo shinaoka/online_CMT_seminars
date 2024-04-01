@@ -109,7 +109,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 * [第1回:  光元亨汰「凍結した乱れのない系におけるスピングラス転移」](#第1回)
   
 # 第98回
-日時: 2024年4月9日(火)16:30-<b>通常と開催時間が違いますのでお気を付け下さい。</b><br>
+日時: 2024年4月9日(火)16:30- <strong>通常と開催時刻が異なります</strong><br>
 発表者: 鈴木　遼太郎 (ベルリン自由大学)<br>
 発表題目: 観測ランダム回路における量子複雑性相転移<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSf86GMXX670xhR4l1Y92fzlpMFumD8mVFlL1PkV99ErFySeRA/viewform)
