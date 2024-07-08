@@ -124,7 +124,6 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 結晶の電子構造やBlochの定理を導入する際によく使うNearly-Free electron近似では自由電子系に周期ポテンシャルを印加すると逆格子ベクトル分だけ波数がシフトした波動関数たちが混成し、Bragg面でエネルギーギャップを開ける。この描像により周期系ではBrillouin Zoneなどの概念が導入されるが、準周期系でもこの描像を使う事が可能でありGap labelling定理という定理につながる[4,5]。これは周期系ではほぼ自明な定理だが、準周期系では準周期性を特徴づける無理数によってエネルギーギャップがトポロジカルに保護されるという非自明な定理になる。本研究ではこのGap labelling定理の導入を行い、これを利用したトポロジカル電荷輸送の研究を薄膜積層系[6]と準結晶系[7]で紹介する。特に準結晶系ではフラクタル性によって多バンドでのトポロジカル電荷輸送が生じ、さらにはこれらが繰り込み群でつながっているフラクタルな電荷輸送である事を説明する。
 
-References
 [1] A. Geim and I. Grigorieva, Nature 499, 419–425 (2013).<br>
 [2] K. Kamiya, T. Takeuchi, N. Kabeya, N. Wada, T. Ishimasa, A. Ochiai, K. Deguchi, K. Imura, and N. K. Sato, Nature Communications 9 (2018).<br>
 [3] K. Deguchi, S. Matsukawa, N. Sato, et al.. Nature Materials 11, 1013–1016 (2012).<br>
