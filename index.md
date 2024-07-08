@@ -120,6 +120,20 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表題目: トポロジカル輸送と準周期構造の関係<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfaxek69NLlNZTzAQZ4CBplrmQ3gY3bEHlJHlFfqNZeoRTZng/viewform)
 
+周期系と乱雑系の中間状態の1つである準周期系はTwisted bilayer grapheneなどを代表とする薄膜積層系[1]や非従来型の超伝導状態[2]や異常臨界現象[3]などが見つかった準結晶系を含むことから近年注目を浴びている。これらは実験や応用などの側面でも重要なだけでなく、理論研究の側面でも様々な面白い現象が報告されている。本講演ではその一側面としてトポロジカル現象の研究を紹介する。
+
+結晶の電子構造やBlochの定理を導入する際によく使うNearly-Free electron近似では自由電子系に周期ポテンシャルを印加すると逆格子ベクトル分だけ波数がシフトした波動関数たちが混成し、Bragg面でエネルギーギャップを開ける。この描像により周期系ではBrillouin Zoneなどの概念が導入されるが、準周期系でもこの描像を使う事が可能でありGap labelling定理という定理につながる[4,5]。これは周期系ではほぼ自明な定理だが、準周期系では準周期性を特徴づける無理数によってエネルギーギャップがトポロジカルに保護されるという非自明な定理になる。本研究ではこのGap labelling定理の導入を行い、これを利用したトポロジカル電荷輸送の研究を薄膜積層系[6]と準結晶系[7]で紹介する。特に準結晶系ではフラクタル性によって多バンドでのトポロジカル電荷輸送が生じ、さらにはこれらが繰り込み群でつながっているフラクタルな電荷輸送である事を説明する。
+
+References
+[1] A. Geim and I. Grigorieva, Nature 499, 419–425 (2013).<br>
+[2] K. Kamiya, T. Takeuchi, N. Kabeya, N. Wada, T. Ishimasa, A. Ochiai, K. Deguchi, K. Imura, and N. K. Sato, Nature Communications 9 (2018).<br>
+[3] K. Deguchi, S. Matsukawa, N. Sato, et al.. Nature Materials 11, 1013–1016 (2012).<br>
+[4] J. Bellissard, From Number Theory to Physics, Springer Proc. Physics 47 (1990)<br>
+[5] M. Yoshii, S. Kitamura, T. Morimoto, Physical Review B 107, 064201 (2023).<br>
+[6] M. Koshino and H. Oka, Physical Review Research 4, 013028 (2022).<br>
+[7] M. Yoshii, S. Kitamura and T. Morimoto, Physical Review B 104, 155126 (2021).<br>
+
+
 # 第103回
 日時: 2024年7月9日(火)11:00-<br>
 発表者: 玉谷 知裕 (東大物性研)<br>
