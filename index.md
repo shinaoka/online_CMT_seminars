@@ -119,7 +119,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 日時: 2024年10月8日(火)16:30- <strong>通常と開催時刻が異なります</strong><br>
 発表者: 髙橋 秀顕 (トリノ大学)<br>
 発表題目: テンソルトレイン形式の階層型運動方程式：散逸ホルスタイン模型による有機半導体中の電荷移動の研究<br>
-[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSf86GMXX670xhR4l1Y92fzlpMFumD8mVFlL1PkV99ErFySeRA/viewform)
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScN5PHPs2Y_AhKH4ejsrCnLMLbNO3V6XsHYsswT34z9A-D7lg/viewform)
 
 
 # 第104回
