@@ -10,7 +10,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 世話人:　高三和晃（東大）、下川統久朗（OIST）、永井佑紀（原子力機構）、品岡寛（埼玉大学)
 
 
-* [第106回: Mateo Fontaine (Keio Univ.) 「Phase diagram of a spin-1/2 XXZ ladder with chirality-chirality interaction」](#第106回)
+* [第106回: Mateo Fontaine (Keio Univ.)「Phase diagram of a spin-1/2 XXZ ladder with chirality-chirality interaction」](#第106回)
 * [第105回: 髙橋 秀顕 (トリノ大学) 「テンソルトレイン形式の階層型運動方程式：散逸ホルスタイン模型による有機半導体中の電荷移動の研究」](#第105回)
 * [第104回: 𠮷井 真央 (東大物工) 「トポロジカル輸送と準周期構造の関係」](#第104回)
 * [第103回: 玉谷 知裕 (東大物性研) 「高次高調波発生を例にした非線形光学の摂動論から非摂動論への拡張」](#第103回)
@@ -119,7 +119,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 
 # 第106回
-日時: 2024年10月29日(火)11:00-This talk will be given in English <br>
+日時: 2024年10月29日(火)11:00- <strong>This talk will be given in English </strong><br>
 発表者: Mateo Fontaine (Keio Univ.)<br>
 発表題目: Phase diagram of a spin-1/2 XXZ ladder with chirality-chirality interaction <br>
 [Registration form](https://docs.google.com/forms/d/1QbBMlV3t6zrY3qZ0UxGIt6iwzZtZe3Ij7KEYgomYun4/viewform)
