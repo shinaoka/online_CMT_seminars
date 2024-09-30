@@ -130,6 +130,21 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表題目: テンソルトレイン形式の階層型運動方程式：散逸ホルスタイン模型による有機半導体中の電荷移動の研究<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScN5PHPs2Y_AhKH4ejsrCnLMLbNO3V6XsHYsswT34z9A-D7lg/viewform)
 
+高移動度をもつ有機半導体（OSC）の開発は、有機太陽電池や有機電界効果トランジスタの性能向上において重要な課題である。OSCにおける電荷移動度の予測には近似理論が広く用いられている[1]。しかし、バンド伝導からホッピング伝導への移行や、輸送中の電荷の過渡的局在化などの電荷輸送機構の解明において、分子振動との相互作用の効果を正確に扱える理論が必要不可欠である。また、分子間のファンデルワールス相互作用に起因する低周波数の分子間振動が、過渡的局在化において重要な役割を果たすという機構が提案されているが[2]、局所的および非局所的な相互作用の相対的な寄与については、依然として議論が残されている。
+
+このような課題に対処するためにいくつかの手法が開発されているが[3,4]、本研究[9]ではテンソルトレイン（TT）形式の階層型運動方程式 (HEOM-TT)[5,6]を採用した。散逸ポーラロン系のような従来のHEOMでは取り扱いが困難な大規模系に対してHEOM-TTが有効であることを示し、さらにTT形式に対する異なる時間発展アルゴリズム[7,8]の比較を行った。また、モデルとしては分子内振動に起因する局所的なホルスタイン型の相互作用に焦点を当て、低周波の局所的な相互作用が電荷移動に与える影響を調べた[9]。
+
+
+[1] S. Fratini, D. Mayou, and S. Ciuchi, Adv. Funct. Mater. 26, 2292–2315 (2016).<br>
+[2] S. Ciuchi and S. Fratini, Phys. Rev. B 86, 245201 (2012).<br>
+[3] M. Lian, Y. Wang, Y. Ke and Y. Zhao, J. Chem. Phys. 151, 044115 (2019).<br>
+[4] W. Li, J. Ren, and Z. Shuai, Nat Commun 12, 4260 (2021).<br>
+[5] Q. Shi, Y. Xu, Y. Yan, and M. Xu, J. Chem. Phys. 148, 174102 (2018).<br>
+[6] R. Borrelli, J. Chem. Phys. 150, 234102 (2019).<br>
+[7] C. Lubich, I. Oseledets, and B. Vandereycken, SIAM J. Numer. Anal. 53, 917–941 (2015).<br>
+[8] S. V. Dolgov, Comput. Methods Appl. Math. 19, 23–38 (2019).<br>
+[9] H. Takahashi and R. Borrelli, J. Chem. Theory Comput. 20, 7052-7064 (2024).<br>
+
 
 # 第104回
 日時: 2024年7月16日(火)11:00-<br>
