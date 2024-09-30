@@ -119,7 +119,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 
 # 第106回
-日時: 2024年10月29日(火)11:00-<br>
+日時: 2024年10月29日(火)11:00-This talk will be given in English <br>
 発表者: Mateo Fontaine (Keio Univ.)<br>
 発表題目: Phase diagram of a spin-1/2 XXZ ladder with chirality-chirality interaction <br>
 [Registration form](https://docs.google.com/forms/d/1QbBMlV3t6zrY3qZ0UxGIt6iwzZtZe3Ij7KEYgomYun4/viewform)
