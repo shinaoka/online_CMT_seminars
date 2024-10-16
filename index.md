@@ -132,21 +132,14 @@ In the isotropic (Heisenberg) model, the phase diagram consists of the rung sing
 
 The introduction of weak XXZ anisotropy further enriches the phase structure within the region of positive CCI and antiferromagnetic rung interaction [2]. Specifically, Néel and vector chiral orders emerge for easy-axis anisotropy, while two distinct symmetry-protected topological (SPT) phases emerge for easy-plane anisotropy. These two SPT phases can be viewed as twisted variants of the Haldane phase [6,7]. We demonstrate that the two SPT phases, along with a trivial phase, can be distinguished by topological indices in the presence of certain symmetries [8].
 
-[1] M. Fontaine and S. Furukawa, arXiv:2408.11731 (2024).
-
-[2] M. Fontaine, K. Sugimoto, and S. Furukawa, Phys. Rev. B 109, 134413 (2024).
-
-[3] A. Läuchli, G.Schmid, and M. Troyer, Phys. Rev. B 67, 100409 (2003).
-
-[4] T. Hikihara, T. Momoi, and X. Hu, Phys. Rev. Lett. 90, 087204 (2003).
-
-[5] S. Takayoshi and M. Sato, Phys. Rev. B 82, 214420 (2010).
-
-[6]  T. Ogino, S. Furukawa, R. Kaneko, S. Morita, and N. Kawashima, Phys. Rev. B 104, 075135 (2021).
-
-[7] Z.-X. Liu, Z.-B. Yang, Y.-J. Han, W. Yi, and X.-G.Wen, Phys. Rev. B 86, 195122 (2012).
-
-[8] F. Pollmann and A. M. Turner, Phys. Rev. B 86, 125441 (2012).
+[1] M. Fontaine and S. Furukawa, arXiv:2408.11731 (2024).<br>
+[2] M. Fontaine, K. Sugimoto, and S. Furukawa, Phys. Rev. B 109, 134413 (2024).<br>
+[3] A. Läuchli, G.Schmid, and M. Troyer, Phys. Rev. B 67, 100409 (2003).<br>
+[4] T. Hikihara, T. Momoi, and X. Hu, Phys. Rev. Lett. 90, 087204 (2003).<br>
+[5] S. Takayoshi and M. Sato, Phys. Rev. B 82, 214420 (2010).<br>
+[6]  T. Ogino, S. Furukawa, R. Kaneko, S. Morita, and N. Kawashima, Phys. Rev. B 104, 075135 (2021).<br>
+[7] Z.-X. Liu, Z.-B. Yang, Y.-J. Han, W. Yi, and X.-G.Wen, Phys. Rev. B 86, 195122 (2012).<br>
+[8] F. Pollmann and A. M. Turner, Phys. Rev. B 86, 125441 (2012).<br>
 
 
 
