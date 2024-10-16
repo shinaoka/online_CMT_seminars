@@ -124,6 +124,33 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表題目: Phase diagram of a spin-1/2 XXZ ladder with chirality-chirality interaction <br>
 [Registration form](https://docs.google.com/forms/d/1QbBMlV3t6zrY3qZ0UxGIt6iwzZtZe3Ij7KEYgomYun4/viewform)
 
+We investigate the ground-state phase diagram of a spin-1/2 XXZ model with chirality-chirality interaction (CCI) on a two-leg ladder, considering both isotropic [1] and weakly anisotropic [2] cases. This model provides a minimal setup to explore the interplay between spin and chirality degrees of freedom and is potentially relevant for understanding the effects of four-spin ring exchange [3,4] and phonon-mediated interactions on a ladder.
+
+Spin-chirality duality transformations [4] allow us to relate the regimes of weak and strong CCIs. By applying Abelian bosonization as in Refs. [5,6] in combination with two types of spin-chirality dualities, we derive a comprehensive phase diagram. Numerical simulations are also performed to confirm the predicted phase structure and critical properties.
+
+In the isotropic (Heisenberg) model, the phase diagram consists of the rung singlet (RS) phase, the Haldane phase, and dimer phases, and a scalar chiral phase [1]. We find that the RS and Haldane phases consist of multiple regions with different dominant correlations in terms of spin, dimer, or chirality. In particular, the dominance of staggered and uniform vector chiral correlations in the RS phase for strong positive and negative CCIs can be understood as dual counterparts to the conventional Néel correlation.
+
+The introduction of weak XXZ anisotropy further enriches the phase structure within the region of positive CCI and antiferromagnetic rung interaction [2]. Specifically, Néel and vector chiral orders emerge for easy-axis anisotropy, while two distinct symmetry-protected topological (SPT) phases emerge for easy-plane anisotropy. These two SPT phases can be viewed as twisted variants of the Haldane phase [6,7]. We demonstrate that the two SPT phases, along with a trivial phase, can be distinguished by topological indices in the presence of certain symmetries [8].
+
+[1] M. Fontaine and S. Furukawa, arXiv:2408.11731 (2024).
+
+[2] M. Fontaine, K. Sugimoto, and S. Furukawa, Phys. Rev. B 109, 134413 (2024).
+
+[3] A. Läuchli, G.Schmid, and M. Troyer, Phys. Rev. B 67, 100409 (2003).
+
+[4] T. Hikihara, T. Momoi, and X. Hu, Phys. Rev. Lett. 90, 087204 (2003).
+
+[5] S. Takayoshi and M. Sato, Phys. Rev. B 82, 214420 (2010).
+
+[6]  T. Ogino, S. Furukawa, R. Kaneko, S. Morita, and N. Kawashima, Phys. Rev. B 104, 075135 (2021).
+
+[7] Z.-X. Liu, Z.-B. Yang, Y.-J. Han, W. Yi, and X.-G.Wen, Phys. Rev. B 86, 195122 (2012).
+
+[8] F. Pollmann and A. M. Turner, Phys. Rev. B 86, 125441 (2012).
+
+
+
+
 # 第105回
 日時: 2024年10月8日(火)16:30- <strong>通常と開催時刻が異なります</strong><br>
 発表者: 髙橋 秀顕 (トリノ大学)<br>
