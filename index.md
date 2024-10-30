@@ -120,7 +120,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 # 第107回
 日時: 2024年11月26日(火)11:00-
 発表者: 副島 智大 (ハーバード大)<br>
-発表題目: Phase diagram of a spin-1/2 XXZ ladder with chirality-chirality interaction <br>
+発表題目: 対称性の破れから生まれるトポロジー:異常量子ホール結晶の最近の展開<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdMuIOZbLsztF7mjuDvTuGJccZz7GygnVJBF7FjgXw6HyVVaw/viewform)
 
 # 第106回
