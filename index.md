@@ -125,7 +125,7 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdMuIOZbLsztF7mjuDvTuGJccZz7GygnVJBF7FjgXw6HyVVaw/viewform)
 
 # 第107回
-日時: 2024年11月26日(火)11:00-
+日時: 2024年11月12日(火)11:00-
 発表者: 岩崎 舜平 (慶應義塾大学)<br>
 発表題目: バルクな奇周波数超伝導のペア特性と核スピン格子緩和率1/T_1<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSeTCb2JG6c88FTubY2AQuwMcNLu6uwDsQmcBiMJIcGXupI0dg/viewform)
