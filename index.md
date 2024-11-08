@@ -130,6 +130,26 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 発表題目: バルクな奇周波数超伝導のペア特性と核スピン格子緩和率1/T_1<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSeTCb2JG6c88FTubY2AQuwMcNLu6uwDsQmcBiMJIcGXupI0dg/viewform)
 
+超伝導は、2つの電子がクーパーペアと呼ばれる分子を形成し、この"分子ボソン"がある種のボース凝縮を起こした状態と解釈出来る。通常の超伝導は同時刻の電子同士のペア形成が可能な偶周波数超伝導であるのに対し、本研究が対象とする奇周波数超伝導は、異なる時刻にある電子の間でしかペア形成が生じないという著しい特徴を有している。このような異なる時刻の2電子が組むペアは、素朴な分子の描像とは大きく異なるため、“分子ボソン”として振る舞うのか、或いは、低温においてボース凝縮を起こすのかどうか明らかではない。
+
+また、近年、重い電子系反強磁性超伝導体CeRh_{0.5}Ir_{0.5}In_{5}の圧力誘起磁気量子臨界点近傍における核スピン-格子緩和率1/T_1の異常な温度依存性が観測されており[1]、これに基づき、奇周波数p波超伝導状態の実現が指摘されている[1]。しかし、従来のバルクな奇周波数超伝導の理論は、1粒子励起スペクトルが負になるという問題を抱えており、実験と定量的に比較することが困難であった[2]。そのため、奇周波数p波状態が、1/T_1の振る舞いを本当に説明できるかどうかは明らかではなかった。
+
+そこで、本講演ではバルクな奇周波数超伝導におけるクーパーペアの性質[2]、及び、その核スピン格子緩和率1/T_1に対する効果[3]について理論的に議論する。
+
+まず、我々が考案した1粒子励起スペクトルの正定値性を満たす奇周波数超伝導のモデル[2]に対して、近年提案された経路積分形式の理論[4-6]とBCS-Eagless-Leggett理論[7,8]を組み合わせて適用し、絶対零度T=0における奇周波数ペア波動関数の時空間構造を計算する。加えて、NozieresとSchmitt-Rink により開発された強結合理論[9]で超伝導相転移温度T_cを評価する。これにより、強結合領域（従来の偶周波数s波の場合では理想Bose分子気体によって良く記述される領域）において、奇周波数ペアが分子ボソン的に振る舞うかどうかを明らかにする[2]。
+
+さらに、奇周波数p波超伝導状態の1/T_1の温度依存性を、平均場近似[4-6]の範囲で明示的に計算し、CeRh_{0.5}Ir_{0.5}In_{5}において観測された1/T_1の温度依存性をどの程度説明できるかを検討する。これに加えて、奇周波数s波の場合についても、従来の偶周波数s波BCS状態でT_c直下に現れるコヒーレンスピークが、奇周波数Cooper対形成によってどのように影響を受けるかを解明する[3]。
+
+[1] S. Kawasaki, T. Oka, A. Sorime, Y. Kogame, K. Uemoto, K. Matano, J. Guo, S. Cai, L. Sun, J. L. Sarrao, J. D. Thompson and G.-q. Zheng, Commun. Phys. 3, 148 (2020).<br>
+[2] S. Iwasaki, T. Kawamura, K. Manabe, and Y.Ohashi, Phys. Rev. A. 109, 063309, (2024).<br>
+[3] S. Iwasaki, and Y. Ohashi, arXiv:2409.10894 (2024).  <br>
+[4] D. Solenov, I. Martin, and D. Mozyrsky, Phys. Rev. B 79, 132502 (2009).<br>
+[5] H. Kusunose, Y. Fuseya, and K. Miyake, J. Phys. Soc. Jpn. 80 (2011) 044711.<br>
+[6] Y. V. Fominov, Y. Tanaka, Y. Asano, and M. Eschrig, Phys. Rev. B 91, 144514 (2015).<br>
+[7] D. M. Eagles, Phys. Rev. 186, 456, (1969).<br>
+[8] A. J. Leggett, in Modern Trends in the Theory of Condensed Matter, edited by A. Pekalski and J. Przystawa (Springer-Verlag, Berlin, 1980), pp. 13-27.<br>
+[9] P. Nozieres and S. Schmitt-Rink, J. Low Temp. Phys. 59, 195 (1985).<br>
+
 
 # 第106回
 日時: 2024年10月29日(火)11:00- <strong>This talk will be given in English </strong><br>
