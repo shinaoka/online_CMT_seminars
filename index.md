@@ -9,7 +9,8 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 
 世話人:　高三和晃（東大）、下川統久朗（OIST）、永井佑紀（原子力機構）、品岡寛（埼玉大学)
 
-* [第107回: 副島 智大 (ハーバード大)「対称性の破れから生まれるトポロジー:異常量子ホール結晶の最近の展開」](#第107回)
+* [第108回: 副島 智大 (ハーバード大)「対称性の破れから生まれるトポロジー:異常量子ホール結晶の最近の展開」](#第108回)
+* [第107回: 岩崎 舜平 (慶應義塾大学)「バルクな奇周波数超伝導のペア特性と核スピン格子緩和率1/T_1　」](#第107回)
 * [第106回: Mateo Fontaine (Keio Univ.)「Phase diagram of a spin-1/2 XXZ ladder with chirality-chirality interaction」](#第106回)
 * [第105回: 髙橋 秀顕 (トリノ大学) 「テンソルトレイン形式の階層型運動方程式：散逸ホルスタイン模型による有機半導体中の電荷移動の研究」](#第105回)
 * [第104回: 𠮷井 真央 (東大物工) 「トポロジカル輸送と準周期構造の関係」](#第104回)
@@ -117,11 +118,18 @@ Web会議ツールZoomを利用したオンライン物性理論セミナーで�
 * [第2回:  植木輝「第二種超伝導体の渦状態におけるホール効果」](#第2回)
 * [第1回:  光元亨汰「凍結した乱れのない系におけるスピングラス転移」](#第1回)
 
-# 第107回
+# 第108回
 日時: 2024年11月26日(火)11:00-
 発表者: 副島 智大 (ハーバード大)<br>
 発表題目: 対称性の破れから生まれるトポロジー:異常量子ホール結晶の最近の展開<br>
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdMuIOZbLsztF7mjuDvTuGJccZz7GygnVJBF7FjgXw6HyVVaw/viewform)
+
+# 第107回
+日時: 2024年11月26日(火)11:00-
+発表者: 岩崎 舜平 (慶應義塾大学)<br>
+発表題目: バルクな奇周波数超伝導のペア特性と核スピン格子緩和率1/T_1<br>
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSeTCb2JG6c88FTubY2AQuwMcNLu6uwDsQmcBiMJIcGXupI0dg/viewform)
+
 
 # 第106回
 日時: 2024年10月29日(火)11:00- <strong>This talk will be given in English </strong><br>
